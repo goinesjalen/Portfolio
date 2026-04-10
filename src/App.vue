@@ -13,6 +13,7 @@
       <Hero />
       <About />
       <Projects />
+      <Ventures />
       <Experience />
       <Skills />
       <Life />
@@ -31,6 +32,7 @@ import Experience from './components/Experience.vue'
 import Skills from './components/Skills.vue'
 import Footer from './components/Footer.vue'
 import Life from './components/Life.vue'
+import Ventures from './components/Ventures.vue'
 
 const cursorDot = ref(null)
 const cursorRing = ref(null)

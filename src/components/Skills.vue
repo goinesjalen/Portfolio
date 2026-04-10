@@ -4,7 +4,7 @@
 
       <!-- Section header -->
       <div class="flex items-center gap-6 mb-16 reveal">
-        <span class="section-label">04 — Skills</span>
+        <span class="section-label">05 — Skills</span>
         <div class="flex-1 h-px bg-smoke" />
       </div>
 

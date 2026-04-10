@@ -82,7 +82,8 @@ const credentials = [
 
 const currently = [
   'Building and operating NicoClips — a YouTube channel scaled to 165K subscribers',
-  'Directing a cross-functional content production team',
+  'Running an active Turo fleet — acquiring vehicles, optimizing pricing, and building operational reps',
+  'Studying automotive inventory strategy and dealership operations',
   'Pursuing senior engineering and technical leadership roles',
   'Developing additional product and business ventures',
 ]

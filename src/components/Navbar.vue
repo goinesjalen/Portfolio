@@ -74,6 +74,7 @@ const mobileOpen = ref(false)
 const navItems = [
   { label: 'About', href: '#about' },
   { label: 'Projects', href: '#projects' },
+  { label: 'Ventures', href: '#ventures' },
   { label: 'Experience', href: '#experience' },
   { label: 'Skills', href: '#skills' },
   { label: 'Life', href: '#life' },
